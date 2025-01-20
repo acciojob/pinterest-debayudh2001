@@ -2,14 +2,8 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	gap: 18px;
+	gap: 20px;
 	
-	img{
-		width: 700px;
-		height: 300px;
-		object-fit: cover;
-	};
-
 	button{
 		color: white;
 		background-color: red;
@@ -18,3 +12,10 @@
 		font-weight: bold;
 	}
 }
+
+img{
+   width: 600px;
+   height: 300px;
+   object-fit: cover; 
+}
+
